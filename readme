@@ -1,0 +1,31 @@
+                                                                         Project Overview
+                                                                ___________________________________
+
+                                        This project implements an ETL (Extract, Transform, Load) pipeline for processing eCommerce transaction data. 
+                                        The pipeline reads raw data from a CSV file, transforms it to ensure data integrity, 
+                                        and loads it into a PostgreSQL database. 
+                                        Additionally, Power BI is used for visualization and analysis.
+
+
+
+                                                                        📊 Features
+                                                              _______________________________________
+                                        Extracts data from ecommerce1.csv
+                                        Cleans and transforms the dataset using Pandas
+                                        Loads processed data into a PostgreSQL database using SQLAlchemy
+                                        Provides Power BI visualizations for insights
+                                        Logs errors and progress for easy debugging
+
+
+
+                                                            🏗 Technologies Used
+                                                            ________________________________________
+                                        Python (for ETL processing)
+                                        Pandas (data manipulation)                                         
+                                        SQLAlchemy (database interaction)
+                                        PostgreSQL (relational database)
+                                        Power BI (visualization)
+
+                                          google drive link for the hole project file include the csv data
+                                      _____________________________________________________________________
+                                      https://drive.google.com/drive/folders/1vQosCGsGtuc-oJem970gdI7xXhipxv0o?usp=sharing
